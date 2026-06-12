@@ -19,7 +19,7 @@ public class ClientGUI {
     private JTextArea chatArea;
     private JTextField inputField;
     private JButton sendButton;
-    private JButton attachButton; // НОВАЯ КНОПКА
+    private JButton attachButton;
 
     private DefaultListModel<String> usersListModel;
     private JList<String> usersList;
